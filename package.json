@@ -1,6 +1,6 @@
 {
   "name": "nicholas-first-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Nicholas's first npm package",
   "main": "index.js",
   "scripts": {
