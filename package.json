@@ -1,0 +1,19 @@
+{
+  "name": "nicholas-first-package",
+  "version": "1.0.3",
+  "description": "Nicholas's first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yshushan/learning-npm.git"
+  },
+  "author": "Nicholas Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yshushan/learning-npm/issues"
+  },
+  "homepage": "https://github.com/Yshushan/learning-npm#readme"
+}
